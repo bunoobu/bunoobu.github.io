@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bunoobu.github.io/sitemap.xml
